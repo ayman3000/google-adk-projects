@@ -24,26 +24,26 @@ With ADK you can:
    git clone https://github.com/your-username/google-adk-projects.git
    cd google-adk-projects
 
-	2.	Pick a project folder
+2. Pick a project folder
 For example, the standalone demo:
 
 cd simple_standalone_adk
 
 
-	3.	Install dependencies
+3.	Install dependencies
 
 pip install -r requirements.txt
 
 
-	4.	Add your API key
+4.	Add your API key
 Create a .env file with:
 
-GEMINI_API_KEY=your_api_key_here
+GOOGLE_API_KEY=your_api_key_here
 
 
 🌟 Roadmap
 	•	Simple standalone agent
-	•	Gradio-based chat app
+	•	Gradio-based chat apps
 	•	Workflow agents (sequential, parallel, loop)
 	•	Critique + Refiner pipelines
 	•	Multi-agent collaboration demos
@@ -55,8 +55,6 @@ GEMINI_API_KEY=your_api_key_here
 	•	Google ADK Documentation
 	•	Gemini API Docs
 	•	Gradio Documentation
-	•	LangGraph
-
 ⸻
 
 ✨ Why this Repo?
