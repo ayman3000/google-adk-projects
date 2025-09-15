@@ -1,0 +1,15 @@
+# Google ADK core
+google-adk
+google-genai
+
+# Web UI and interactive apps
+gradio
+
+# Environment variable management
+python-dotenv
+
+# Async + utilities (safe defaults)
+anyio
+
+# Optional: useful for notebooks / dev
+jupyter
