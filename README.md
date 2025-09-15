@@ -13,22 +13,7 @@ With ADK you can:
 - Add built-in tools (Google Search, Code Execution, Vertex AI Search)
 - Define custom function tools
 - Orchestrate multi-agent workflows (sequential, parallel, loop)
-- Integrate with external frameworks like **LangGraph** and **Gradio**
 
----
-
-## 📂 Repo Structure
-
-google-adk-projects/
-├── simple_standalone_adk/      # Minimal agent + standalone Gradio chat app
-│   ├── standalone_agent.py
-│   ├── app_gradio_adk_chat.py
-│   └── .env (API keys, not committed)
-│
-├── (coming soon) workflow_agents/   # Sequential, parallel, and loop workflows
-├── (coming soon) multi_agent_demos/ # Collaboration and critique/refiner patterns
-├── (coming soon) langgraph_hybrid/  # Hybrid ADK + LangGraph integrations
-└── README.md
 
 ---
 
@@ -86,3 +71,13 @@ GEMINI_API_KEY=your_api_key_here
 📝 License
 
 This repository is open-source under the Apache 2.0 License.
+---
+
+## 👨‍💻 Author
+
+Created and maintained by **Ayman Hamed**  
+- 🌐 [LinkedIn](https://www.linkedin.com/in/ayman-hamed-moustafa/)  
+- 📝 [Medium](https://medium.com/@ayman3000)  
+- 🎥 [YouTube](https://www.youtube.com/@BitsNBytesAI)  
+
+If you find this repo useful, ⭐ the repo and follow for more!
