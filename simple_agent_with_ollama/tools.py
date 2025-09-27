@@ -1,4 +1,3 @@
-# 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
 import os
 
 def search_the_internet(search: str):
