@@ -38,7 +38,7 @@ google-adk-projects/
 
 1. **Clone the repo**
    ```bash
-   git clone https://github.com/your-username/google-adk-projects.git
+   git clone https://github.com/ayman3000/google-adk-projects.git
    cd google-adk-projects
    ```
 
