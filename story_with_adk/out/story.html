@@ -1,0 +1,284 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Twins Across Time</title>
+  <style>
+    body {
+      font-family: sans-serif;
+      margin: 0;
+      background-color: #f0f0f0;
+    }
+
+    .container {
+      max-width: 800px;
+      margin: 20px auto;
+      background-color: #fff;
+      padding: 20px;
+      box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    }
+
+    h1 {
+      text-align: center;
+      color: #333;
+    }
+
+    /* Slideshow container */
+    .slideshow-container {
+      position: relative;
+      margin: auto;
+      overflow: hidden;
+    }
+
+    /* Slides */
+    .slide {
+      display: none;
+      width: 100%;
+      text-align: center;
+      animation: fade 0.5s ease-in-out;
+    }
+
+    .slide img {
+      max-width: 100%;
+      height: auto;
+      display: block;
+      margin: 0 auto;
+    }
+
+    /* Caption text */
+    .caption {
+      background-color: rgba(0, 0, 0, 0.5);
+      color: #fff;
+      padding: 10px;
+      position: absolute;
+      bottom: 0;
+      width: 100%;
+      text-align: center;
+      box-sizing: border-box;
+    }
+
+    .caption h2 {
+      margin: 0;
+      font-size: 1.5em;
+    }
+
+    .caption p {
+      margin: 0;
+    }
+
+    /* Next & previous buttons */
+    .prev, .next {
+      cursor: pointer;
+      position: absolute;
+      top: 50%;
+      width: auto;
+      margin-top: -22px;
+      padding: 16px;
+      color: white;
+      font-weight: bold;
+      font-size: 18px;
+      transition: 0.6s ease;
+      border-radius: 0 3px 3px 0;
+      user-select: none;
+      background-color: rgba(0, 0, 0, 0.5);
+    }
+
+    /* Position the "next button" to the right */
+    .next {
+      right: 0;
+      border-radius: 3px 0 0 3px;
+    }
+
+    /* On hover, add a black background color with a little bit see-through */
+    .prev:hover, .next:hover {
+      background-color: rgba(0, 0, 0, 0.8);
+    }
+
+    /* The dots/indicators */
+    .dots {
+      text-align: center;
+      margin-top: 10px;
+    }
+
+    .dot {
+      cursor: pointer;
+      height: 15px;
+      width: 15px;
+      margin: 0 2px;
+      background-color: #bbb;
+      border-radius: 50%;
+      display: inline-block;
+      transition: background-color 0.6s ease;
+    }
+
+    .active, .dot:hover {
+      background-color: #717171;
+    }
+
+    /* Fading animation */
+    @keyframes fade {
+      from {opacity: .4}
+      to {opacity: 1}
+    }
+
+    /* Autoplay button */
+    .autoplay-toggle {
+      display: block;
+      margin: 10px auto;
+      padding: 8px 16px;
+      background-color: #4CAF50;
+      color: white;
+      border: none;
+      cursor: pointer;
+      border-radius: 4px;
+      text-align: center;
+      width: fit-content;
+    }
+
+    .autoplay-toggle:hover {
+      background-color: #367c39;
+    }
+
+    /* Character Section */
+    .character-section {
+        margin-top: 20px;
+        padding: 15px;
+        border: 1px solid #ddd;
+        border-radius: 5px;
+    }
+
+    .character-section h2 {
+        font-size: 1.3em;
+        margin-bottom: 10px;
+        color: #555;
+    }
+
+    .character-section p {
+        font-size: 1em;
+        line-height: 1.4;
+        color: #666;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>Twins Across Time</h1>
+
+    <section class="character-section">
+        <h2>Cast</h2>
+        <p><b>Leo:</b> An adventurous 10-year-old boy with a boundless imagination. He dreams of space travel and isn't afraid to take risks.</p>
+        <!-- <p><b>Luna:</b> Leo's twin sister, equally imaginative but more grounded.  She shares his dreams but is more cautious.</p> -->
+    </section>
+
+    <div class="slideshow-container">
+      <div class="slide">
+        <img src="scene_01.png" alt="Scene 1">
+        <div class="caption">
+          <h2>Cardboard Dreams</h2>
+          <p>The twins, Leo and Luna, hammered and taped with boundless energy. Cardboard boxes transformed into a magnificent rocket ship under their tireless hands. "Almost ready for liftoff!" Leo exclaimed, tightening a bolt with his toy wrench. Luna grinned, "Destination: the stars!"</p>
+        </div>
+      </div>
+
+      <div class="slide">
+        <img src="scene_02.png" alt="Scene 2">
+        <div class="caption">
+          <h2>Unexpected Launch</h2>
+          <p>Three… two… one… BLAST OFF! As Leo shouted the final word, a blinding light enveloped the rocket. A strange humming filled the air, and with a sudden jolt, the cardboard creation soared skyward, leaving Luna speechless and alone in the backyard. The impossible had happened.</p>
+        </div>
+      </div>
+
+      <div class="slide">
+        <img src="scene_03.png" alt="Scene 3">
+        <div class="caption">
+          <h2>Temporal Drift</h2>
+          <p>Inside the rocket, Leo gripped the controls, his eyes wide with a mix of fear and wonder. He was hurtling through a kaleidoscope of colors, past swirling nebulas and distant galaxies. Time seemed to twist and bend around him as the cardboard ship navigated the strange currents of the cosmos.</p>
+        </div>
+      </div>
+
+      <div class="slide">
+        <img src="scene_04.png" alt="Scene 4">
+        <div class="caption">
+          <h2>Return to a Different World</h2>
+          <p>With a bone-jarring thud, the rocket crash-landed in the familiar backyard. Leo pushed open the hatch, expecting to see Luna. Instead, a woman stood there, her face etched with lines he didn't recognize, yet her eyes held a spark of the twin he knew. "Leo?" she whispered, a tear tracing a path down her weathered cheek. "Is that really you?"</p>
+        </div>
+      </div>
+
+      <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
+      <a class="next" onclick="plusSlides(1)">&#10095;</a>
+    </div>
+
+    <div class="dots">
+      <span class="dot" onclick="currentSlide(1)"></span>
+      <span class="dot" onclick="currentSlide(2)"></span>
+      <span class="dot" onclick="currentSlide(3)"></span>
+      <span class="dot" onclick="currentSlide(4)"></span>
+    </div>
+
+    <button class="autoplay-toggle" onclick="toggleAutoplay()">Autoplay</button>
+
+  </div>
+
+  <script>
+    let slideIndex = 1;
+    let autoplayInterval;
+    let autoplayEnabled = false;
+
+    function showSlides(n) {
+      let i;
+      let slides = document.getElementsByClassName("slide");
+      let dots = document.getElementsByClassName("dot");
+      if (n > slides.length) {slideIndex = slides.length}
+      if (n < 1) {slideIndex = 1}
+      for (i = 0; i < slides.length; i++) {
+        slides[i].style.display = "none";
+      }
+      for (i = 0; i < dots.length; i++) {
+        dots[i].className = dots[i].className.replace(" active", "");
+      }
+      slides[slideIndex-1].style.display = "block";
+      dots[slideIndex-1].className += " active";
+    }
+
+    function plusSlides(n) {
+      showSlides(slideIndex += n);
+    }
+
+    function currentSlide(n) {
+      showSlides(slideIndex = n);
+    }
+
+    function startAutoplay() {
+      autoplayInterval = setInterval(() => {
+        plusSlides(1);
+      }, 3000);
+      autoplayEnabled = true;
+    }
+
+    function stopAutoplay() {
+      clearInterval(autoplayInterval);
+      autoplayEnabled = false;
+    }
+
+    function toggleAutoplay() {
+      if (autoplayEnabled) {
+        stopAutoplay();
+      } else {
+        startAutoplay();
+      }
+    }
+
+    // Keyboard navigation
+    document.addEventListener('keydown', function(event) {
+      if (event.key === 'ArrowLeft') {
+        plusSlides(-1);
+      } else if (event.key === 'ArrowRight') {
+        plusSlides(1);
+      }
+    });
+
+    showSlides(slideIndex); // Initial call
+  </script>
+
+</body>
+</html>
