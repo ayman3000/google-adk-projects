@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="354553c9-e54d-4abc-9566-876b5a663aa0" name="Changes" comment="added: Story with ADK">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="c189467fca7443b8e2c1da0da3797b1b6f1542d8" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;ayman3000&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;git@github.com:ayman3000/google-adk-projects.git&quot;,
+    &quot;accountId&quot;: &quot;cdbe6be9-6869-49ac-9c31-96a53d8a5a6e&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="32inaJK6C2U1SnTfKl7eutdly2G" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/aymanmoustafa/projects/mygithub/google-adk-projects&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-e03c56caf84a-JavaScript-PY-252.23892.439" />
+        <option value="bundled-python-sdk-b3ae9b5d7125-f0eec537fc84-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-252.23892.439" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="354553c9-e54d-4abc-9566-876b5a663aa0" name="Changes" comment="" />
+      <created>1757912323282</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1757912323282</updated>
+      <workItem from="1757912324480" duration="10244000" />
+      <workItem from="1758688458359" duration="848000" />
+      <workItem from="1759290688970" duration="268000" />
+      <workItem from="1759528718396" duration="1373000" />
+      <workItem from="1759548057984" duration="2510000" />
+      <workItem from="1759550579998" duration="3452000" />
+      <workItem from="1760605007602" duration="3519000" />
+    </task>
+    <task id="LOCAL-00001" summary="added: simple_standalone_adk">
+      <option name="closed" value="true" />
+      <created>1757914563549</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1757914563550</updated>
+    </task>
+    <task id="LOCAL-00002" summary="updeted: readme file">
+      <option name="closed" value="true" />
+      <created>1757915329933</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1757915329933</updated>
+    </task>
+    <task id="LOCAL-00003" summary="updeted: readme file">
+      <option name="closed" value="true" />
+      <created>1757915653225</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1757915653225</updated>
+    </task>
+    <task id="LOCAL-00004" summary="updeted: readme file">
+      <option name="closed" value="true" />
+      <created>1757916402085</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1757916402085</updated>
+    </task>
+    <task id="LOCAL-00005" summary="added: standalone agent files">
+      <option name="closed" value="true" />
+      <created>1757917273924</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1757917273924</updated>
+    </task>
+    <task id="LOCAL-00006" summary="added: simple agent with ollama">
+      <option name="closed" value="true" />
+      <created>1758688686367</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1758688686367</updated>
+    </task>
+    <task id="LOCAL-00007" summary="added: Dynamic Agents Project">
+      <option name="closed" value="true" />
+      <created>1759528815140</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1759528815140</updated>
+    </task>
+    <task id="LOCAL-00008" summary="added: Dynamic Agents Project">
+      <option name="closed" value="true" />
+      <created>1759528878389</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1759528878389</updated>
+    </task>
+    <task id="LOCAL-00009" summary="added: Dynamic Agents Project">
+      <option name="closed" value="true" />
+      <created>1759550646548</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1759550646548</updated>
+    </task>
+    <task id="LOCAL-00010" summary="added: Story with ADK">
+      <option name="closed" value="true" />
+      <created>1760605274888</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1760605274888</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="added: simple_standalone_adk" />
+    <MESSAGE value="updeted: readme file" />
+    <MESSAGE value="added: standalone agent files" />
+    <MESSAGE value="added: simple agent with ollama" />
+    <MESSAGE value="added: Dynamic Agents Project" />
+    <MESSAGE value="added: Story with ADK" />
+    <option name="LAST_COMMIT_MESSAGE" value="added: Story with ADK" />
+  </component>
+</project>
