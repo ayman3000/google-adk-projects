@@ -13,3 +13,6 @@ anyio
 
 # Optional: useful for notebooks / dev
 jupyter
+# Others
+weasyprint
+litellm

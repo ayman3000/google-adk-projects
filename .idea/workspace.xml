@@ -4,11 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="354553c9-e54d-4abc-9566-876b5a663aa0" name="Changes" comment="added: Story with ADK">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="354553c9-e54d-4abc-9566-876b5a663aa0" name="Changes" comment="added: AI Podcaster Project">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,7 +71,6 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-js-predefined-d6986cc7102b-e03c56caf84a-JavaScript-PY-252.23892.439" />
         <option value="bundled-python-sdk-b3ae9b5d7125-f0eec537fc84-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-252.23892.439" />
       </set>
     </attachedChunks>
@@ -174,7 +170,23 @@
       <option name="project" value="LOCAL" />
       <updated>1760605274888</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="added: AI Podcaster Project">
+      <option name="closed" value="true" />
+      <created>1761718940895</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1761718940895</updated>
+    </task>
+    <task id="LOCAL-00012" summary="added: AI Podcaster Project">
+      <option name="closed" value="true" />
+      <created>1761719175511</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1761719175511</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -187,6 +199,7 @@
     <MESSAGE value="added: simple agent with ollama" />
     <MESSAGE value="added: Dynamic Agents Project" />
     <MESSAGE value="added: Story with ADK" />
-    <option name="LAST_COMMIT_MESSAGE" value="added: Story with ADK" />
+    <MESSAGE value="added: AI Podcaster Project" />
+    <option name="LAST_COMMIT_MESSAGE" value="added: AI Podcaster Project" />
   </component>
 </project>
