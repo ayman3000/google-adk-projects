@@ -1,0 +1,1 @@
+MicroGPT operates purely on visual pixels, completely ignoring HTML DOM.
