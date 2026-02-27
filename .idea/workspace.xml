@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="354553c9-e54d-4abc-9566-876b5a663aa0" name="Changes" comment="added: AI Podcaster Project">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="354553c9-e54d-4abc-9566-876b5a663aa0" name="Changes" comment="added: Research Team Project" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -186,7 +184,15 @@
       <option name="project" value="LOCAL" />
       <updated>1761719175511</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="added: Research Team Project">
+      <option name="closed" value="true" />
+      <created>1772198514208</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1772198514208</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -200,6 +206,7 @@
     <MESSAGE value="added: Dynamic Agents Project" />
     <MESSAGE value="added: Story with ADK" />
     <MESSAGE value="added: AI Podcaster Project" />
-    <option name="LAST_COMMIT_MESSAGE" value="added: AI Podcaster Project" />
+    <MESSAGE value="added: Research Team Project" />
+    <option name="LAST_COMMIT_MESSAGE" value="added: Research Team Project" />
   </component>
 </project>
